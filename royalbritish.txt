@@ -4,4 +4,3 @@ Naissance GeorgeVI
 Mariage GeorgeVi-EBL
 Naissance ElisabethII
 Mariage Elisabeth2
-Naissance Charles
